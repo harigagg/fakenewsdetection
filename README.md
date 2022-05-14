@@ -1,7 +1,7 @@
 # fakenewsdetection
 
 Fake news detection has recently captured the public and researchers’ attention as the online circulation of misinformation has drastically increased
-with the advent of online media channels such as social media (Facebook, Twitter, WhatsApp), articles, blogs, and e-newspapers.
+with the advent of the online media channels such as social media (Facebook, Twitter, WhatsApp), articles, blogs, and e-newspapers.
 A recent study found out that 50% of the traffic to all the fake news sites are routed back to social media platform.
 Majority (62%) of the U.S. adults use online media channels for news information and sharing, and hence identification of fake news content 
 across all the online sources has become a pressing need. There are thousands of cases where proliferation of fake news impacted the society 
